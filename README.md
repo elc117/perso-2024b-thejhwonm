@@ -247,6 +247,8 @@ Circulo.calc_area(3)
 
 # Resultado final
 
+[Vídeo curto do código](https://www.youtube.com/watch?v=2DEo8-CuzGk)
+
 # Referências e cŕeditos
 [Por que Elixir ?](https://elixirbridge.org/02_Intro_to_Elixir/01-why-program-why-elixir.html)  
 [Aprendendo Elixir](https://elixirbridge.org/02_Intro_to_Elixir/03-learning-elixir.html)                        
